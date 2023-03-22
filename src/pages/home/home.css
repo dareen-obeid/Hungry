@@ -1,0 +1,27 @@
+.home-div {
+  display: flex;
+  justify-content: space-between;
+  padding: 100px;
+  margin: 0 10px;
+}
+
+
+.product-list {
+  padding: 25px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+
+/* .home-div {
+  display: flex;
+  justify-content: space-between;
+  padding: 50px;
+  margin: 0 10px;
+}
+.product-list {
+  display: flex;
+  justify-content: space-between;
+  padding: 50px;
+  margin: 0 10px;
+} */
